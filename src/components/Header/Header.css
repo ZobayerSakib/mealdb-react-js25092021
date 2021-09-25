@@ -1,0 +1,14 @@
+.header{
+    border-bottom: 2px solid black;
+    text-align: center;
+}
+.header h1{
+    text-shadow: 3px 3px olive;
+    font-size: 40px;
+}
+
+/* ---------------------Secret link -----------------*/
+.secretLink{
+    text-decoration: none;
+    color:green;
+}

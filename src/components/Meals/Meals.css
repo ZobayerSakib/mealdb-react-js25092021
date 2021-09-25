@@ -1,0 +1,23 @@
+.meals{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    border-bottom: 1px solid rgb(250, 231, 230);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.meal-container{
+    margin-left: 40px;
+    margin-right: 20px;
+    border-right: 1px solid lavender;
+    padding:20px
+}
+.input{
+    background-color: rgba(0, 0, 0, 0.685);
+    padding: 14px;
+    text-align: center;
+
+}
+.input input{
+    width: 75%;
+    padding: 7px;
+}
